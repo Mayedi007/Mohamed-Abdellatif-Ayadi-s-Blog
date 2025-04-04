@@ -1,37 +1,72 @@
-**Features**
+🚀 Features
 Fully responsive layout built with Tailwind CSS 3.0
-Multiple colour schemes (or fully customise your own)
-Dark mode (forced on/off or auto-switching with user toggle)
-Highly customisable configuration
-Firebase integration to support dynamic data
-Views count & like mechanism
-Related articles
+
+Multiple color schemes (or fully customizable)
+
+Dark mode: auto-switching, forced on/off, or user toggle
+
+Highly configurable and extensible setup
+
+Firebase integration for dynamic content
+
+Views counter and like system
+
+Related articles suggestions
+
 Multiple homepage layouts
-Multiple authors
-Series of articles
-Date and weight based article sorting
-Zen mode for article reading
-Flexible with any content types, taxonomies and menus
-Header and footer menus
-Nested menus & sub-navigation menu
-Scrollable table of contents
-Multilingual content support including support for RTL languages
-Ability to link to posts on third-party websites
-Support for several shortcodes like Gallery, Timeline, GitHub cards, and Carousels
-Buymeacoffee integration
-Client-side site search powered by Fuse.js
-Diagrams and visualisations using Mermaid
-Charts using Chart.js
-TypeIt integration
-Youtube embeds with performance improvements
-Mathematical notation using KaTeX
-SVG icons from FontAwesome 6
-Automatic image resizing using Hugo Pipes
-Heading anchors, Tables of Contents, Code copy, Buttons, Badges and more
-HTML and Emoji support in articles 🎉
-SEO friendly with links for sharing to social media
-Fathom Analytics and Google Analytics support
-RSS feeds, Favicons and comments support
-Advanced customisation using simple Tailwind colour definitions and styles
-Optimised for performance and accessibility with perfect Lighthouse scores
-Fully documented with regular updates
+
+Multi-author support
+
+Article series grouping
+
+Article sorting by date or weight
+
+Zen mode for focused reading
+
+Flexible content support: taxonomies, menus, and more
+
+Header & footer menus
+
+Nested menus and sub-navigation
+
+Scrollable Table of Contents
+
+Multilingual support, including RTL languages
+
+Link to third-party posts
+
+Shortcode support: Gallery, Timeline, GitHub cards, Carousels
+
+BuyMeACoffee integration
+
+Client-side search with Fuse.js
+
+Mermaid diagrams for visualizations
+
+Chart.js integration for charts
+
+TypeIt support for typing animations
+
+Optimized YouTube embeds
+
+KaTeX for math notation
+
+FontAwesome 6 SVG icons
+
+Image optimization using Hugo Pipes
+
+Features like heading anchors, ToC, code copy, buttons, badges, and more
+
+Full HTML and emoji support in articles 🎉
+
+SEO friendly with social media sharing support
+
+Analytics integration: Fathom & Google Analytics
+
+RSS feeds, favicons, and comments support
+
+Advanced customization via simple Tailwind CSS config
+
+Performance & accessibility optimized (perfect Lighthouse scores)
+
+Fully documented and regularly updated
